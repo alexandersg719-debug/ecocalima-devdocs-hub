@@ -1,5 +1,15 @@
 # 🌿 EcoCalima DevDocs Hub
 
+---
+
+# 👨‍💻 Integrantes
+
+- Alexander Sanchez Gamboa
+- Daniela Loaiza Gonzales
+
+### Docente
+Carlos Rodriguez
+
 ## Plataforma de Ecoturismo y Sostenibilidad
 
 EcoCalima DevDocs Hub es una plataforma de documentación técnica diseñada para apoyar el desarrollo de soluciones digitales enfocadas en el ecoturismo sostenible en Calima El Darién.
@@ -60,16 +70,6 @@ Diseñar un portal DevDocs profesional que documente una plataforma tecnológica
 - Educación ambiental
 - Sistema de recompensas sostenibles
 - Portal DevDocs navegable
-
----
-
-# 👨‍💻 Integrantes
-
-- Alexander Sanchez Gamboa
-- Daniela Loaiza Gonzales
-
-### Docente
-Carlos Rodriguez
 
 ---
 
