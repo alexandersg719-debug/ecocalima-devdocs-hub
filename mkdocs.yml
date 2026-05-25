@@ -1,0 +1,48 @@
+site_name: EcoCalima DevDocs Hub
+site_description: Plataforma de ecoturismo y sostenibilidad
+site_author: Alexander Sanchez Gamboa y Daniela Loaiza Gonzales
+
+theme:
+  name: material
+  palette:
+
+    - scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+
+    - scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Inicio: index.md
+  - Onboarding: onboarding.md
+  - Arquitectura: arquitectura.md
+  - Instalación: instalacion.md
+  - API: api.md
+  - Sostenibilidad: sostenibilidad.md
+
+  - ADRs:
+      - ADR 001: adr/adr-001.md
+      - ADR 002: adr/adr-002.md
+      - ADR 003: adr/adr-003.md
+      - ADR 004: adr/adr-004.md
+      - ADR 005: adr/adr-005.md
+      - ADR 006: adr/adr-006.md
+      - ADR 007: adr/adr-007.md
+      - ADR 008: adr/adr-008.md
+      - ADR 009: adr/adr-009.md
+      - ADR 010: adr/adr-010.md
